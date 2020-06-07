@@ -1,0 +1,16 @@
+procedure nom_procedure is
+	x:boolean:=true;
+	y:integer:=3;
+	z:integer :=9;
+
+begin
+	
+
+	for y in 5 ..8 loop
+		put(y);
+		y:=z;
+		z:=9+9+9*7;
+	end loop;
+	y:=3+4*2;
+
+end nom_pro;

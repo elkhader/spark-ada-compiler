@@ -1,0 +1,12 @@
+
+
+procedure Increment_loop_A is
+A:  Integer := 3;
+B: Boolean := true;
+
+begin
+	for I in 1 ..B
+		A:= A+1;
+		Put(A);
+	end loop;
+end Increment_loop_A;

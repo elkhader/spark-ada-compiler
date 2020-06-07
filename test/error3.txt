@@ -1,0 +1,11 @@
+
+Procedure Add is 
+A:  Integer:= 12;
+B: Boolean := true;
+Result: Integer ;
+Begin
+	Result := A+B;
+	Put(Result);
+	Result := A+C;
+	Put(Result)
+end Add;

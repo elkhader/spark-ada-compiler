@@ -1,0 +1,14 @@
+Procedure Equal_Incremente is
+A:  Integer:= 0;
+B:  Integer:= 155;
+uu: Boolean:= false;
+
+begin
+	if (A=B) then 
+		for A in 0 .. 10 loop
+			put(A);
+		end loop;
+	else 
+		put(uu);
+	end if;
+end Equal_Incremente;	

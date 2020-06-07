@@ -1,0 +1,13 @@
+
+Procedure Equal is 
+A:  Integer:= 12;
+B: Boolean := true;
+A:float;
+
+begin 
+	if (A = B) then 
+		Put(H);
+ 	else
+ 		Put(B);
+ 	end if;
+end Equal;
