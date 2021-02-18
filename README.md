@@ -3,7 +3,7 @@ A project that has been accomplished in a team of 4, during my 3rd semester of m
  
  
  ### Grammar
- The following expressions were implemented in the code. 
+ The following expressions and rules were implemented in the code. 
  ``` 
 PROG: procedure  idf  is  LISTE_DECL begin LISTE_INST end idf ;
 LISTE_INST : INST LISTE_INSTAUX 
